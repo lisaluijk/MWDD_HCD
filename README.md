@@ -1,7 +1,9 @@
 # MWDD_HCD
 
-<summary>
-<details>Leerdoelen</details>
+
+<details>
+
+<summary>Leerdoelen</summary>
 
 ## Leerdoelen
 
@@ -32,16 +34,71 @@ Ik werk hieraan om mijn time management te verbeteren, omdat ik merk dat ik door
 
 
 
-### Maandag 30 maart | checkout met: __
+### Maandag 30 maart | checkout met: Dylan
 
 #### Wat heb ik vandaag gedaan?
-- **09:30–10:15** — 
+- **09:30–10:45** — Kick-off opdracht
+- 1100 opdracht doornemen
+1115 alles opzetten : repo, read me etc, planning plus tijdsinschatting maken
+-1200 - 1230 deskresearch
+1230 pauze 
+1345 concept verder uitgewerkt en uitgetypt
+14:30 checken bij vasilis
+1500 voorbereiding weekly geek
+1530 beginnen met basis code
+
 
 #### Gebruikte bronnen
-- 
+- [Scriptie Vasilis](https://exclusive-design.vasilis.nl/)
+- [Ervaring doof iemand bij films](https://www.startasl.com/deaf-people-at-the-movies/)
+- [forum (reddit) over tv kijken met ondertiteling](https://www.reddit.com/r/deaf/comments/1746k4j/is_watching_tv_or_movies_with_captions_actually/)
+- [Blog Darice](https://darice.org/about/)
+- [horror trailer | weapons](https://www.youtube.com/watch?v=OpThntO9ixc)
+- [horror trailer | bring her back](https://www.youtube.com/watch?v=1I15ttCedfY)
+- [horror trailer | good boy](https://www.youtube.com/watch?v=VFqG99KuPV8)
+- [horror trailer | smile](https://www.youtube.com/watch?v=0HY6QFlBzUY)
 
+#### Resultaten uit deskresearch
+
+Ik heb me voordat ik begon een beetje proberen te verdiepen (ook omdat dat in de kickoff zeker naar voren komt: "You are not te the user!").
+Ik heb onderzoek gedaan naar de ervaringen van slechthorenden die films of tv kijken met ondertiteling via en forum, andere artikelen bekeken en zelf ook een test gedaan door horror trailers met en zonder geluid te bekijken om te ervaren hoeveel dat toevoegd. 
+
+**Bevindingen die ik heb gedaan:**
+- Subtitles werken alleen goed als ze echt van kwaliteit zijn (hoewel iets beter dan niets is)
+- interssant: hoe breng je grapjes en intonatie over in alleen visueel?
+- Built in spoilers zijn vervelend bij captioning
+- Iemand anders vind het stiekem juist wel fijn, omdat die niet van jumpscares houdt (misschien voorkeuren aangeven)
+- Hardcoded captions zijn niet fijn -> settings om subtitles aan te passen
+- In mijn onderzoekje bij het kijken van de trailers kon ik niet goed onderscheiden wat in dialoog gezegd werd en wat in de "achtergrond" 
+- spanning komt niet goed over -> vaak begint een horrortrailer "normaal" en komt er dan een punt dat alles omslaat. Zonder de audio kreeg ik dit effect niet mee terwijl daar de hele trailer eigenlijk op gebouwd is
+- Darice houdt van sitcoms (in de achtergrond)
+
+#### Concept ideeën
+
+**Effecten versterker/vertaler**
+Een website waarin je jouw show kan afspelen. Het beeld is iets verkleind waardoor er marges rondom de video vrij komen. Hier komen dan effecten en kleuren in die de ambience versterken en de vibe van de audio beter kunnen overbrengen. Bij horror bijvoorbeeld ligt heel veel van de feel in de audio. 
+
+Er komt dan ook een pagina met een formulier waarin je voor een fimpje timestamps kan aangeven en daar de effecten aaan kan koppelen. Dit kan de filmproducent dan zelf doen of misschien een community net als bij wikipedia. 
+
+effect voorbeelden
+- spanning -> knipperend effect
+- mood en vibe -> kleur?
+- achtergrond -> woorden 
+- omslaan -> filter maybe?
+
+
+**Subtitles customizer**
+Een menu waarin je allemaal settings op de ondertiteling kan zetten om het een voor jou fijne ervaring te maken: kleur, positonering, ambience ook of alleen dialoog, spoilers erin of uit laten. etc.
+
+**Iets met humor en intonatie**
+Hier heb ik nog geen concept voor maar dit lijkt me interessant. Ik dacht zelf eerst vooral aan een genre als horror die veel bassseert op geluid maar ook grapjes zijn lastig textueel over te brengen. Zeker ook omdat Darice veel sitcoms kijkt. Hoe ik dit ga doen weet ik nog niet.
+
+Misschien hetzelfde idee als de effecten versterker maar dan een overlay over het scherm en dat visueel weergeven in a way.
+
+Met Vasilis overlegd en alles is wel interessant en haalbaar. Ik neig nu naar de effecten versterker dus ga daar een begin mee maken. Maar ik laat het ook een beetje afhangen van de test morgen.
 
 #### Wat heb ik geleerd?
+
 
 
 #### Wat ga ik volgende keer doen?

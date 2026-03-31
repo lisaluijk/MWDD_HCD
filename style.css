@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+    background: black;
+
+}
+
+.flicker-animation {
+
+    animation: --flicker 200ms infinite;
+}
+
+video {
+    height: 80vh;
+    width: auto;
+    align-self: center;
+}
+
+@keyframes --flicker {
+    from {
+        background: red;
+    } to {
+        background: black;
+    }
+}
+
